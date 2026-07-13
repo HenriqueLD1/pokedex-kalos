@@ -1,5 +1,4 @@
-# 🧭 Pokédex Kalos
-
+Pokédex Kalos
 Uma Pokédex interativa baseada na região de Kalos, desenvolvida com foco em experiência do usuário e consumo de API.
  **Acesse o projeto: https://pokedex-kalos.vercel.app
  
@@ -8,12 +7,12 @@ Esse projeto foi criado com o objetivo de praticar integração com APIs externa
 A aplicação consome dados da PokéAPI e exibe os Pokémon da região de Kalos com uma interface moderna, responsiva e interativa.
 
 Funcionalidades
-- 🔎 Busca por nome ou número do Pokémon  
-- 🎯 Filtro por tipo (com ícones e dropdown customizado)  
-- 📊 Visualização de status detalhados  
-- 🎨 Interface com cores dinâmicas baseadas no tipo  
-- ✨ Animações e efeitos (hover 3D e brilho)  
-- 📱 Layout responsivo  
+- Busca por nome ou número do Pokémon  
+- Filtro por tipo (com ícones e dropdown customizado)  
+- Visualização de status detalhados  
+- Interface com cores dinâmicas baseadas no tipo  
+- Animações e efeitos (hover 3D e brilho)  
+- Layout responsivo  
 
  Tecnologias utilizadas
 - HTML  
